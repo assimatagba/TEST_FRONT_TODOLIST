@@ -1,14 +1,28 @@
-# TEST_FRONT_TODOLIST
-Pour lancer l'app
+# Simple List Project - v0.1
 
-# Depuis la racine
-# Installation des packages
-npm install
 
-# Lancer le projet Angular depuis la CLI
-ng serve 
-# Ou 
-ng serve --open
+## Project resume
+This project is a simple todoList manager
 
-# Ouvrir. le projet dans le navigateur web
-localhost:4200
+
+## Requirement
+
+* Nodejs >= v12 | https://nodejs.org/
+* Angular CLI `npm install -g @angular/cli`
+
+## Getting Started
+
+1 - Install requirement 
+
+2 - Clone this project
+
+3 - run `npm install`
+
+4 - run 
+```bash
+ng serve # for start the project
+```
+
+## Goal of project
+
+See PDF of docx associated file.
